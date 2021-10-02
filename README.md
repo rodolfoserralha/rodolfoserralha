@@ -8,6 +8,7 @@ Atualmente estou aprendendo front-end React
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoserralha&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rodolfo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
