@@ -1,6 +1,6 @@
-### Olá mundo, eu sou Rodolfo Serralha, muito prazer 👋
+### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-Atualmente estou aprendendo front-end React
+Actually I'm studying back-end after finishing fundamentals and front-end at Trybe.
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
