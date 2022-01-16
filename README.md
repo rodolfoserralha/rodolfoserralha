@@ -1,6 +1,6 @@
 ### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-Actually I'm studying back-end after finishing fundamentals and front-end at Trybe.
+I finished front-end and now I'm studying back-end
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
