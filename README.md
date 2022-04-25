@@ -1,6 +1,6 @@
 ### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-I finished front-end and now I'm studying back-end
+I'm fullstack developer.
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
