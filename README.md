@@ -1,6 +1,6 @@
 ### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-I'm fullstack developer.
+I'm a fullstack developer.
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
