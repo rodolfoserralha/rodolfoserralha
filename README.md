@@ -1,6 +1,6 @@
 ### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-I'm a fullstack developer.
+I'm a frontend developer with 2+ years of experience.
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
