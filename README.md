@@ -1,6 +1,6 @@
 ### Hello World, I'm Rodolfo Serralha, nice to meet you 👋
 
-I'm a frontend developer with 3 years of experience.
+I'm a frontend engineer with 5 years of experience.
 
 <div align="center">
   <a href="https://github.com/rodolfoserralha">
